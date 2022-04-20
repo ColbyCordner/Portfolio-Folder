@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/Colby/Desktop/School/Scripting/Create with Code/Prototype 4/Assets/Challenge
+    4/Challenge 4.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
